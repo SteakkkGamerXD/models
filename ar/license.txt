@@ -1,0 +1,11 @@
+Model Information:
+* title:	SLR AR-15
+* source:	https://sketchfab.com/3d-models/slr-ar-15-429b6ef8516b46dca8992e78c4bf7a55
+* author:	AlexFinsher (https://sketchfab.com/AlexFinsher)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SLR AR-15" (https://sketchfab.com/3d-models/slr-ar-15-429b6ef8516b46dca8992e78c4bf7a55) by AlexFinsher (https://sketchfab.com/AlexFinsher) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
